@@ -1,19 +1,20 @@
 {
-  "name": "pn-search",
+  "name": "pn-ng-search",
   "version": "1.0.0-rc1-final",
-  "description": "AngularJS filter that performs OR search operation",
+  "description": "PhantomNet AngularJS filter that performs OR search operation",
   "main": "./dist/pn-search.js",
   "authors": [
     "Minh Nguyen <mnguyen284@gmail.com>"
   ],
   "license": "MIT",
   "keywords": [
+    "PhantomNet",
     "AngularJS"
   ],
   "moduleType": [
     "globals"
   ],
-  "homepage": "https://github.com/green-grass/pn-search",
+  "homepage": "https://github.com/green-grass/pn-ng-search",
   "ignore": [
     "**/.*",
     "node_modules",
