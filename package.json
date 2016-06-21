@@ -1,9 +1,9 @@
 {
   "name": "phantomnet-search",
-  "description": "AngularJS filter that performs OR search operation",
+  "description": "PhantomNet AngularJS filter that performs OR search operation",
   "repository": {
     "type": "git",
-    "url": "https://github.com/green-grass/phantomnet-search.git"
+    "url": "https://github.com/green-grass/pn-ng-search.git"
   },
   "license": "MIT",
   "devDependencies": {
