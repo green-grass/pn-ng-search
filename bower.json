@@ -1,6 +1,6 @@
 {
   "name": "pn-ng-search",
-  "version": "1.0.0-rc2-1",
+  "version": "1.0.0-rc2-2",
   "description": "PhantomNet AngularJS filter that performs OR search operation",
   "main": "./dist/pn-search.js",
   "authors": [
@@ -23,6 +23,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.5.0"
+    "angular": ">= 1.5.0"
   }
 }
